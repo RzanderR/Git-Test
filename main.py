@@ -1,3 +1,4 @@
 i  = "JOE ROGAN"
-z = "ÄMbatukam"
+z = "3"
 print("Vikash: I LOVE {x, z}")
+print("OE")
